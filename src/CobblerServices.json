@@ -1,0 +1,39 @@
+{
+  "cobblerServices": [
+    {
+      "service": "Shrinking",
+      "description": "Shrinking shoes for a better fit",
+      "priceRange": "15"
+    },
+    {
+      "service": "Patching",
+      "description": "Patching holes and tears in footwear",
+      "priceRange": "20"
+    },
+    {
+      "service": "Fixing zippers",
+      "description": "Repairing or replacing zippers on shoes or boots",
+      "priceRange": "30"
+    },
+    {
+      "service": "Stitching",
+      "description": "Stitching up damaged areas on shoes or leather items",
+      "priceRange": "25"
+    },
+    {
+      "service": "Polishing",
+      "description": "Cleaning and polishing leather items",
+      "priceRange": "15"
+    },
+    {
+      "service": "Repairing leather",
+      "description": "Repairing leather goods like bags, wallets, and belts",
+      "priceRange": "35"
+    },
+    {
+      "service": "Dyeing",
+      "description": "Dyeing or recoloring leather items",
+      "priceRange": "50"
+    }
+  ]
+}
